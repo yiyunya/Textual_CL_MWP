@@ -1,7 +1,7 @@
 # Textual Enhanced Contrastive Learning for Solving Math Word Problems.
-Shen Y.*, Liu Q.*, Mao Z., Cheng F., Sadao K. (2022)
+Shen Y.\*, Liu Q.\*, Mao Z., Cheng F., Sadao K. (2022)
 
-This paper has been accepted for publication in *Findings of EMNLP 2022.
+This paper has been accepted for publication in *Findings of EMNLP 2022*.
 
 The arxiv preprint could be found [here](https://arxiv.org/abs/2211.16022).
 
